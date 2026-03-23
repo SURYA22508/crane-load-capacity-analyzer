@@ -1,0 +1,1 @@
+# crane-load-capacity-analyzer
